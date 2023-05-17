@@ -5,11 +5,11 @@ We have uploaded our code as 4 separate .py files divided in 4 branches. Each fi
 
 Question 1: Are Natural Disasters increasing or  decreasing over time? And, which ones are the most common? Git branch: erik_script.py, file name: Question #1.ipynb
 
-Question 2: How do different disasters occur in different world regions recently? Git branch: karen_script.py, file name: main_karen.ipynb
+Question 2: How do different disasters occur in different world regions recently? Git branch: karen_script.py, file name: Question #2.ipynb
 
 Question 3: Is there a correlation between all the data? Git branch: oliva_script.py, fiel name: Question #3.ipynb
 
-Question 4: What happened to the number of deaths and number of disasters over the years? How can we explain it? Git branch: pedro_script, file name: pedro_script.ipynb
+Question 4: What happened to the number of deaths and number of disasters over the years? How can we explain it? Git branch: pedro_script, file name: Question #4.ipynb
 
 We uploaded the major findings word document on the MAIN branch, the file name is: P1_T7_WrittenAnalysis.docx.pdf
 
