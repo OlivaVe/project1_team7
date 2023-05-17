@@ -10,3 +10,7 @@ Question 2: How do different disasters occur in different world regions recently
 Question 3: Is there a correlation between all the data? Git branch: oliva_script.py, fiel name: Question #3.ipynb
 
 Question 4: What happened to the number of deaths and number of disasters over the years? How can we explain it? Git branch: pedro_script, file name: pedro_script.ipynb
+
+We uploaded the major findings word document on the MAIN branch, the file name is: P1_T7_WrittenAnalysis.docx.pdf
+
+We uploaded the presentation used in class on the MAIN branch, the file name is: P1_T7_Presentation.pptx
