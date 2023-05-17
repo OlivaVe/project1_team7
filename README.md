@@ -7,7 +7,7 @@ Question 1: Are Natural Disasters increasing or  decreasing over time? And, whic
 
 Question 2: How do different disasters occur in different world regions recently? Git branch: karen_script.py, file name: Question #2.ipynb
 
-Question 3: Is there a correlation between all the data? Git branch: oliva_script.py, fiel name: Question #3.ipynb
+Question 3: Is there a correlation between all the data? Git branch: oliva_script.py, file name: Question #3.ipynb
 
 Question 4: What happened to the number of deaths and number of disasters over the years? How can we explain it? Git branch: pedro_script, file name: Question #4.ipynb
 
